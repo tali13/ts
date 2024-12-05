@@ -205,3 +205,4 @@ let aluno32=new Aluno("Thomas ","Scherer");
 let aluno33=new Aluno("Cleo "," Baumgartne");
 let aluno34= new Aluno("Alan"," Bloomgate");
 
+//vitoria e talita
